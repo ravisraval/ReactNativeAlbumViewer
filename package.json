@@ -10,6 +10,7 @@
     "axios": "^0.17.1",
     "react": "16.0.0",
     "react-native": "0.51.0",
+    "react-native-background-task": "^0.2.1",
     "react-navigation": "^1.0.0-beta.21"
   },
   "devDependencies": {
